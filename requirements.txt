@@ -1,0 +1,12 @@
+joblib
+matplotlib
+Cython
+librosa
+pesq
+pypesq
+pystoi
+tqdm
+toml
+mir_eval
+torch_complex
+rich
